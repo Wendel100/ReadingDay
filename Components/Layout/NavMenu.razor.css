@@ -6,7 +6,7 @@
     left: 0;
     width: 100%;
     height: 65px;
-    background-color: #1f2937; /* cinza escuro moderno */
+    background-color: #723acc; /* cinza escuro moderno */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -16,7 +16,7 @@
 
 /* links do menu */
 .bottom-navbar .nav-link {
-    color: #d1d5db;
+    color: #ffffff;
     text-decoration: none;
     font-size: 13px;
     display: flex;
