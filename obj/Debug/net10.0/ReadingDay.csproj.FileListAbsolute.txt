@@ -72,8 +72,6 @@ C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\eq00x2b6sd-{0}-0j
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\go0lbemd6e-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\azgggnxsoc-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\nuvke1azi4-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\f6q9uns38r-{0}-0txvqk707i-0txvqk707i.gz
-C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\373otxd2kb-{0}-0txvqk707i-0txvqk707i.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\staticwebassets.development.json
@@ -84,3 +82,5 @@ C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\refint\ReadingDay.dll
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ReadingDay.pdb
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ReadingDay.genruntimeconfig.cache
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ref\ReadingDay.dll
+C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\f6q9uns38r-{0}-069xvwhtaq-069xvwhtaq.gz
+C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\373otxd2kb-{0}-069xvwhtaq-069xvwhtaq.gz
