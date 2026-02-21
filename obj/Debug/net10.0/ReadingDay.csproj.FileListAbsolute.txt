@@ -24,6 +24,7 @@ C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\scopedcss\Components\Layout\
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\scopedcss\bundle\ReadingDay.styles.css
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\scopedcss\projectbundle\ReadingDay.bundle.scp.css
+C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\2xhixg3shi-{0}-5r9yyua3eo-5r9yyua3eo.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\wqbg41cl59-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\73leo75scj-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\szw9bet3ya-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -81,6 +82,5 @@ C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\refint\ReadingDay.dll
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ReadingDay.pdb
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ReadingDay.genruntimeconfig.cache
 C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\ref\ReadingDay.dll
-C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\f6q9uns38r-{0}-gmo5v9vjie-gmo5v9vjie.gz
-C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\373otxd2kb-{0}-gmo5v9vjie-gmo5v9vjie.gz
-C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\2xhixg3shi-{0}-eunwhqq33k-eunwhqq33k.gz
+C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\f6q9uns38r-{0}-q8b4vaezke-q8b4vaezke.gz
+C:\Users\darkr\Desktop\ReadingDay\obj\Debug\net10.0\compressed\373otxd2kb-{0}-q8b4vaezke-q8b4vaezke.gz

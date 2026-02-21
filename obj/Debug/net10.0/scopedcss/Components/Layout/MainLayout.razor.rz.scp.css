@@ -9,7 +9,7 @@ main[b-3rd15tlxpn] {
 }
 
 .sidebar[b-3rd15tlxpn] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+      background-image: linear-gradient(rgb(171, 45, 255), rgb(5, 125, 238)); 
 }
 
 .top-row[b-3rd15tlxpn] {
@@ -50,14 +50,13 @@ main[b-3rd15tlxpn] {
     .page[b-3rd15tlxpn] {
         flex-direction: row;
     }
-
+    /*Altura do menu Reading day*/
     .sidebar[b-3rd15tlxpn] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
-
     .top-row[b-3rd15tlxpn] {
         position: sticky;
         top: 0;

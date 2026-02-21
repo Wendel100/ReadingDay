@@ -1,0 +1,19 @@
+@page "/sobre"
+@rendermode InteractiveServer
+<h1>Bem vdindo ao teste<br>Ola de novo</h1>
+<h4>testando o butao :@teste</h4>
+<button class="btn btn-primary" @onclick="Aumentar">aumentar</button>
+<br>
+<button class="btn btn-dark" @onclick="Diminuir">Diminuir</button>
+
+@code{
+    int teste  = 0;
+    private void Aumentar(){
+
+        teste++;
+    }
+      private void Diminuir(){
+
+        teste--;
+    }
+}
